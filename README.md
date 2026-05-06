@@ -1,5 +1,6 @@
 # Medical SQLite Database
-
+**Authors:** Pauline De Baets, Mio Kobayashi, Fatima Al Aridhee
+**Date:** April 2023
 ## Description
 
 This project contains a small SQLite database about medicine and health-related information.
